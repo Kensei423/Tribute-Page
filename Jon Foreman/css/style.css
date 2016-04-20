@@ -1,0 +1,44 @@
+body{
+  background-color:black;
+}
+
+.container {
+  border: 1px solid white;
+}
+
+#name {
+  margin-top: 20px;
+  text-align: center;
+  font-size:  40px;
+  color: white;
+  font-family: lobster, sans-serif, serif;
+}
+
+
+#caption {
+  position: relative;
+  border-bottom: 1px solid white;
+  color: white;
+  font-family: lobster, sans-serif, serif;
+}
+
+
+#location {
+  position: relative;
+}
+
+#news-heading {
+  position: relative;
+  color:white;
+}
+
+#news-heading  p {
+  color:grey;
+}
+
+
+footer{
+  color:white;
+  text-align: center;
+  font-family: lobster, sans-serif, serif;
+}
